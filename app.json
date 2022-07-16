@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "justcomfort",
+    "slug": "justcomfort",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "facebookAppId": "1875984902575389",
+    "facebookDisplayName": "Viristore-App",
+    "splash": {
+      "image": "./assets/splash_new.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.justcomfort"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app_icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.justcomfort"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}

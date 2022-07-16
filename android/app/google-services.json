@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "728050826090",
+    "project_id": "justcomfort-e81a2",
+    "storage_bucket": "justcomfort-e81a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728050826090:android:b56b2ad553b9a2f16f0313",
+        "android_client_info": {
+          "package_name": "com.justcomfort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728050826090-ggoljrb3m3r76ni0enbm8nvv1esb5o0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justcomfort",
+            "certificate_hash": "e6b547e568ca30acadb6ddf5070552e4c5d02227"
+          }
+        },
+        {
+          "client_id": "728050826090-u779ou74j8uclgo2m1ejsbi47ev8mjes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justcomfort",
+            "certificate_hash": "a258eb0ac7b319371548d51bf991aace23d51591"
+          }
+        },
+        {
+          "client_id": "728050826090-ut730tqbhsjh2mhbgd9coectj3p6uis7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justcomfort",
+            "certificate_hash": "c64a5e43dda88504dcf1b28c4a21b65adaf08377"
+          }
+        },
+        {
+          "client_id": "728050826090-calosv3nvvf3mhopgrikgrljtu7t5k2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1gwpwJH_z46vx1jEwzERaFWqesdbMC6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728050826090-calosv3nvvf3mhopgrikgrljtu7t5k2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
