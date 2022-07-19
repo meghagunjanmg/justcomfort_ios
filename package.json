@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "react-native start",
+    "start": "expo start --dev-client",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "web": "expo start --web",
@@ -90,6 +90,6 @@
     ]
   },
   "private": true,
-  "name": "Viri-Store-App-master",
+  "name": "justcomfort",
   "version": "1.0.0"
 }

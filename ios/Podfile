@@ -4,7 +4,7 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '11.0'
 
-target 'ViriStoreGroceryApp' do
+target 'justcomfort' do
   use_unimodules!
   config = use_native_modules!
 
@@ -21,6 +21,4 @@ target 'ViriStoreGroceryApp' do
   #  post_install do |installer|
   #    flipper_post_install(installer)
   #  end
-  pod 'react-native-maps', :path => '../node_modules/react-native-maps'
-
 end
